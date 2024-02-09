@@ -73,9 +73,10 @@
   <hr style="background-color: green; height: 0.01rem">
 
   # <div style="color: #f1f1ff"> These are some of my projects: </div>
+  <span style="color: red ; font-size: 2.5rem ; font-weight: bold "> 
+    TODO: demo here!
 
-  TODO: demo here!
-
+  </span>
 
   <hr style="background-color: green; height: 0.01rem">
 
